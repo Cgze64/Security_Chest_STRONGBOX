@@ -1,5 +1,7 @@
 # Security_Chest_STRONGBOX_Arduino
 
+This project is for educational purposes only.
+
 [My Tinkercad simulation link](https://www.tinkercad.com/things/7SEagzZHJsu-circuitcoffrecarte/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=gn-7DzbhXT1QoGPU8HZplTo5rUt6HSXvqqy97g8Mc6k)
 
 ## French description
